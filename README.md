@@ -7,7 +7,7 @@ It includes the core QA deliverables created by Ozih Uddin Al Fuzayel (SQA) as p
 The purpose of this project is to validate the functionality, usability, UI consistency, and overall stability of the Ad Creation Tool, ensuring error-free rendering, smooth user experience, and accurate final output during ad generation.
 
 📁 Included Files
-1️⃣ Test Plan (PDF)
+## 1️⃣ Test Plan (PDF)
 
 The Test Plan outlines:
 
@@ -25,7 +25,7 @@ Deliverables & responsibilities
 
 It acts as the blueprint for the testing process.
 
-2️⃣ Test Cases (Excel)
+## 2️⃣ Test Cases (Excel)
 
 A fully structured and color-coded Excel sheet containing:
 
@@ -70,7 +70,8 @@ Negative Inputs & Stress Tests
 <img width="1551" height="778" alt="Screenshot" src="https://github.com/user-attachments/assets/4944f270-7650-4f7d-b8f1-267ec978f4c9" />
 
 
-3️⃣ Test Summary Report (PDF)
+
+## 3️⃣ Test Summary Report (PDF)
 
 A stylish and detailed final report containing:
 
