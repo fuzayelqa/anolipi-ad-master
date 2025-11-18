@@ -119,5 +119,6 @@ These documents together provide a complete QA coverage report for the project.
 
 👤 Author
 
-Ozih Uddin Al Fuzayel
+Ozih Uddin Al Fuzayel.
+
 Software Quality Assurance (SQA)
