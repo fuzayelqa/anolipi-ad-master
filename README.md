@@ -1,4 +1,4 @@
-📘 Manual Testing Documentation – Styled Image Ad Creator
+## 📘 Manual Testing Documentation – Styled Image Ad Creator
 📌 Project Overview
 
 This repository contains the complete Manual Testing Documentation for the Styled Image Ad Creator web application.
