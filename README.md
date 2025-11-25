@@ -8,7 +8,7 @@ The purpose of this project is to validate the functionality, usability, UI cons
 
 📁 Included Files
 ## 1️⃣ Test Plan (PDF)
-
+ 
 The Test Plan outlines:
 
 Testing scope & objectives
